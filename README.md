@@ -1,2 +1,1 @@
-# ghq-project-manager
-managing projects business, construction, software, etc.
+# Updated via n8n\nThis file was changed automatically.
