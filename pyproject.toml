@@ -1,0 +1,12 @@
+[pyproject.toml]
+name = "myapp"
+version = "0.1.0"
+description = "A FastAPI app"
+authors = ["Dr Terry <your@email.com>"]
+
+[tool.poetry.dependencies]
+python = "^3.11"
+fastapi = "^0.111.0"
+uvicorn = "^0.29.0"
+sqlalchemy = "^2.0.30"
+pydantic = "^2.7.1"
